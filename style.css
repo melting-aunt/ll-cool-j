@@ -1,4 +1,31 @@
-#navbar {
+body{
+    background-color:#e7e0f0;
+    color:#942759;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 00px;
+    padding-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+nav ul{
+    background-color: #8968b0;
+    overflow: hidden;
+    list-style-type: none;
     position: fixed;
     top: 0;
+    margin-left: 0px;
+}
+nav a{
+    float: right;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+}
+nav a:hover{
+    background-color: #ff88af;
+}
+#active{
+    background-color: #FFF2F8;
 }
