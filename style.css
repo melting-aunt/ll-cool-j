@@ -1,5 +1,17 @@
+body, html {
+    background: linear-gradient(
+        45deg,
+        #c3e7f5,
+        #fdb9c8 35%,
+        #C8A2C8 50%
+    );
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    background-attachment: fixed;
+}
+
 body{
-    background-color:#e7e0f0;
     color:#942759;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin-top: 00px;
