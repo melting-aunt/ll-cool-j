@@ -1,4 +1,2 @@
 # ll-cool-j
-coolest cats in town
-
-link to stockport.gov website: https://www.stockport.gov.uk/groups/us-girls-youth-group
+This is our website for Young Women's Voices. We have included information about the group, a discussion board, upcoming events, and more.
