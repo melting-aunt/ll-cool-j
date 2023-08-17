@@ -1,3 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Bagel+Fat+One&family=Krub:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&family=Righteous&display=swap');
+
+/* font-family: 'Abel', sans-serif;
+
+font-family: 'Bagel Fat One', cursive;
+
+font-family: 'Krub', sans-serif;
+
+font-family: 'Righteous', cursive;
+
+*/
+
 body, html {
     background: linear-gradient(
         45deg,
