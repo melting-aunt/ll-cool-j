@@ -25,7 +25,7 @@ body, html {
 
 body{
     color:#942759;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Krub', sans-serif;
     margin-top: 00px;
     padding-top: 0px;
     margin-left: 0px;
@@ -133,4 +133,8 @@ nav a:hover{
 }
 #active{
     background-color: #FFF2F8;
+}
+
+h1, h2, h3 {
+    font-family: 'Bagel Fat One';
 }
